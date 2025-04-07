@@ -1,0 +1,102 @@
+{
+    "results": [
+        {
+            "objectId": "sport26",
+            "name": "Spielplatz",
+            "mapTitle": "Spielpl\u00e4tze",
+            "status": "normal",
+            "iconName": "Icon_Erholung_Spielplatz",
+            "iconPath": "https://geoportal.solingen.de/buergerservice1/ol3/solingen_icons",
+            "iconMimetype": ".png",
+            "symbolName": "XE_Erholung_Spielplatz",
+            "symbolPath": "https://geoportal.solingen.de/buergerservice1/ol3/solingen_symbols",
+            "symbolMimetype": ".png",
+            "showCategory": "false",
+            "categoryVersion": "1.0",
+            "metathema": "Spielpl\u00e4tze",
+            "metaquelle": "Kombination aus Excel Stadtdienst Sport und Lotus Notes Verzeichnisdatenbank",
+            "metainfodatum": "20220215054917",
+            "showFilter": "true",
+            "filterFields": [
+                {
+                    "title": "Typ",
+                    "field": "filter_spielplatztyp"
+                },
+                {
+                    "title": "geeignet f\u00fcr Altersgruppe",
+                    "field": "filter_altersgruppe"
+                }
+            ],
+            "createdAt": "2022-02-15T08:32:38.746Z",
+            "updatedAt": "2022-02-23T08:40:33.703Z"
+        },
+        {
+            "objectId": "sport27",
+            "name": "Parkplatz",
+            "mapTitle": "Parkpl\u00e4tze",
+            "status": "normal",
+            "iconName": "Autoverkehr_Baustelle",
+            "iconPath": "https://geoportal.solingen.de/buergerservice1/ol3/solingen_icons",
+            "iconMimetype": ".png",
+            "symbolName": "XE_Erholung_Parkplatz",
+            "symbolPath": "https://geoportal.solingen.de/buergerservice1/ol3/solingen_symbols",
+            "symbolMimetype": ".png",
+            "position": 9,
+            "showCategory": "true",
+            "categoryVersion": "1.0",
+            "metathema": "Parkpl\u00e4tze",
+            "metaquelle": "Kombination aus Excel Stadtdienst Sport und Lotus Notes Verzeichnisdatenbank",
+            "metainfodatum": "20220215054917",
+            "showFilter": "false",
+            "filterFields": [
+            ],
+            "createdAt": "2022-02-15T08:32:38.746Z",
+            "updatedAt": "2022-02-23T08:40:33.703Z"
+        },
+        {
+            "objectId": "sport28",
+            "name": "Sportplatz",
+            "mapTitle": "Sportpl\u00e4tze",
+            "status": "normal",
+            "iconName": "Gesundheit_Corona",
+            "iconPath": "https://geoportal.solingen.de/buergerservice1/ol3/solingen_icons",
+            "iconMimetype": ".png",
+            "symbolName": "XE_Erholung_Sportplatz",
+            "symbolPath": "https://geoportal.solingen.de/buergerservice1/ol3/solingen_symbols",
+            "symbolMimetype": ".png",
+            "position": 2,
+            "categoryVersion": "1.0",
+            "metathema": "Sportpl\u00e4tze",
+            "metaquelle": "Kombination aus Excel Stadtdienst Sport und Lotus Notes Verzeichnisdatenbank",
+            "metainfodatum": "20220215054917",
+            "showFilter": "false",
+            "filterFields": [
+            ],
+            "createdAt": "2022-02-15T08:32:38.746Z",
+            "updatedAt": "2022-02-23T08:40:33.703Z"
+        },
+        {
+            "objectId": "sport29",
+            "name": "Tennisplatz",
+            "mapTitle": "Tennispl\u00e4tze",
+            "status": "normal",
+            "iconName": "Shopping",
+            "iconPath": "https://geoportal.solingen.de/buergerservice1/ol3/solingen_icons",
+            "iconMimetype": ".png",
+            "symbolName": "XE_Erholung_Tennisplatz",
+            "symbolPath": "https://geoportal.solingen.de/buergerservice1/ol3/solingen_symbols",
+            "symbolMimetype": ".png",
+            "position": 1,
+            "showCategory": "true",
+            "categoryVersion": "1.0",
+            "metathema": "Sportpl\u00e4tze",
+            "metaquelle": "Kombination aus Excel Stadtdienst Sport und Lotus Notes Verzeichnisdatenbank",
+            "metainfodatum": "20220215054917",
+            "showFilter": "false",
+            "filterFields": [
+            ],
+            "createdAt": "2022-02-15T08:32:38.746Z",
+            "updatedAt": "2022-02-23T08:40:33.703Z"
+        }
+    ]
+}

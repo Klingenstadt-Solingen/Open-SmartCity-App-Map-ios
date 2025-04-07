@@ -1,0 +1,155 @@
+{
+      "objectId" : "b6d74d74-82f9-432f-ab25-157b15570597",
+      "name" : "Heike Schnäbelin",
+      "address" : "Dahl 35",
+      "zip" : 42699,
+      "city" : "Solingen",
+      "district" : "Ohligs-Aufderhöhe-Merscheid",
+      "poiCategory" : "sozial22",
+      "showUserGeneratedContent" : false,
+      "showRouteTo" : false,
+      "routeType" : "car",
+      "geopoint" : {
+         "__type" : "GeoPoint",
+         "latitude" : 7.037790281363965,
+         "longitude" : 51.16612122151621
+      },
+      "details" : [
+         {
+            "type" : "mail",
+            "title" : "E-Mail Adresse",
+            "value" : "hschnoppe@aol.de",
+            "position" : 600,
+            "iconURL" : "briefkastenicon"
+         },
+         {
+            "type" : "html",
+            "title" : "Betreuungszeiten",
+            "value" : "Montag bis Freitag<br/>7:30 Uhr bis 15:30 Uhr",
+            "position" : 900,
+            "iconURL" : "infoicon"
+         },
+         {
+            "type" : "tel",
+            "title" : "Telefon",
+            "value" : "0174-6570774",
+            "position" : 410,
+            "iconURL" : "telefonicon"
+         },
+         {
+            "type" : "tel",
+            "title" : "Telefon",
+            "value" : "0212-6570774",
+            "position" : 420,
+            "iconURL" : "telefonicon"
+         },
+         {
+            "type" : "tel",
+            "title" : "Telefon Mobil",
+            "value" : "0174-6570774",
+            "position" : 500,
+            "iconURL" : "handytelefonicon"
+         },
+         {
+            "type" : "tel",
+            "title" : "Telefon Festnetz",
+            "value" : "0212-6570774",
+            "position" : 400,
+            "iconURL" : "telefonicon"
+         },
+         {
+            "type" : "text",
+            "title" : "Alter",
+            "value" : "Ab 0 Jahre",
+            "position" : 1000,
+            "iconName" : "infoicon",
+            "iconPath" : "https://geoportal.solingen.de/buergerservice1/ol3/solingen_icons",
+            "iconMimetype" : ".png",
+            "symbolName": "XE_Kindertagespflege_U3",
+            "symbolPath" : "https://geoportal.solingen.de/buergerservice1/ol3/solingen_symbols",
+            "symbolMimetype" : ".png",
+            "filterField" : "filter_alter"
+         },
+         {
+            "type" : "text",
+            "title" : "Anzahl der Plätze",
+            "value" : "10",
+            "position" : 500,
+            "iconName" : "infoicon",
+            "iconPath" : "https://geoportal.solingen.de/buergerservice1/ol3/solingen_icons",
+            "iconMimetype" : ".png",
+            "symbolName": "XE_Kindertagespflege_Grosspflege",
+            "symbolPath" : "https://geoportal.solingen.de/buergerservice1/ol3/solingen_symbols",
+            "symbolMimetype" : ".png",
+            "filterField" : "filter_platzanzahl"
+         },
+         {
+            "type" : "text",
+            "title" : "Name",
+            "value" : "Heike Schnäbelin",
+            "position" : 100,
+            "iconURL" : "personicon"
+         },
+         {
+            "type" : "text",
+            "title" : "Qualifikationen",
+            "value" :  "Pflege am Kind",
+            "position" : 710,
+            "iconName" : "qualiicon",
+            "iconPath" : "https://geoportal.solingen.de/buergerservice1/ol3/solingen_icons",
+            "iconMimetype" : ".png",
+            "symbolName": "XE_Kindertagespflege_Pflege",
+            "symbolPath" : "https://geoportal.solingen.de/buergerservice1/ol3/solingen_symbols",
+            "symbolMimetype" : ".png",
+            "filterField" : "filter_qualifikation"
+         },
+         {
+            "type" : "text",
+            "title" : "Qualifikationen",
+            "value" :  "Erste Hilfe",
+            "position" : 720,
+            "iconName" : "qualiicon",
+            "iconPath" : "https://geoportal.solingen.de/buergerservice1/ol3/solingen_icons",
+            "iconMimetype" : ".png",
+            "symbolName": "XE_Kindertagespflege_Hilfe",
+            "symbolPath" : "https://geoportal.solingen.de/buergerservice1/ol3/solingen_symbols",
+            "symbolMimetype" : ".png",
+            "filterField" : "filter_qualifikation"
+         },
+         {
+            "type" : "text",
+            "title" : "Qualifikationen",
+            "value" :  "Schöne Spiele",
+            "position" : 730,
+            "iconName" : "qualiicon",
+            "iconPath" : "https://geoportal.solingen.de/buergerservice1/ol3/solingen_icons",
+            "iconMimetype" : ".png",
+            "symbolName": "XE_Kindertagespflege_Spiele",
+            "symbolPath" : "https://geoportal.solingen.de/buergerservice1/ol3/solingen_symbols",
+            "symbolMimetype" : ".png",
+            "filterField" : "filter_qualifikation"
+         }
+      ],
+      "images" : [
+         {
+            "imageName" : "bildname1",
+            "imagePath" : "https://www.bildervompoi.de",
+            "imageMimetype" : ".jpg",
+            "text" : "Beschreibung des Bildes",
+            "relevance" : 2,
+            "accessibilityHint" : "Barrierefreiheit-Beschreibung",
+            "exif":{
+               "ImageDescription":"Behindertenparkplätze Tiefgarage Rathaus",
+               "Copyright": "Klingenstadt Solingen, Lizenz: Dl-DE->BY-2.0"
+            }
+         },
+         {
+            "imageName" : "bildname2",
+            "imagePath" : "https://www.bildervompoi.de",
+            "imageMimetype" : ".jpg",
+            "text" : "Beschreibung des Bildes",
+            "relevance" : 2,
+            "accessibilityHint" : "Barrierefreiheit-Beschreibung"
+         }
+      ]
+}
